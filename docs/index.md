@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenue sur A3FR wiki
 
-You can use the [editor on GitHub](https://github.com/aecy/a3fr-wiki/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Cette documentation a été créee pour but d'aider les français à comprendre la documentation d'arma 3. Certains d'entre vous parle bien anglais mais d'autre sait le parler et le comprendre mais lorsqu'il s'agit d'une documentation cela devient plus difficile pour d'autres, c'est pour cela que j'ai décidé de faire une version française.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Si la documentation ce trouve sur les pages github c'est parce que j'ai tout de même envie de partager ceci avec vous mais sans débourser le moindre euro. Si ça fonctionne bien en étant ici, je peux carrément améliorer et faire un vrai site avec recherche en temps reel, des fonctionnalités bien plus simple qui rendra votre vie encore meilleure mais pour ce faire il faudra un peu d'argent de côté pour payer un hebergement ect...
 
-### Markdown
+### A
+[abs](a/abs.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Support ou Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aecy/a3fr-wiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vous avez un soucis ou vous ne trouvez pas une fonction que j'ai oublié ? Contactez moi via discord: Aecy#1290 ou ouvrez une [issue](https://github.com/aecy/a3fr-wiki/issues/new).
