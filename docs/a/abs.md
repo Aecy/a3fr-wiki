@@ -1,4 +1,5 @@
 # abs
+abs
 
 ## Description
 Valeur absolue d'un vrai nombre
@@ -17,11 +18,12 @@ n: [Nombre](types/Nombre.md)
 
 **Exemple 1**
 ```sqf
-_nombre = abs - 3;
+_nombre = abs -3;
 ```
 
 ## Information additionel
 **Voir aussi**
 [Math Commands](link)
+
 **Groupes**
 [Math](link)
