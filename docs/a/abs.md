@@ -6,12 +6,13 @@ Valeur absolue d'un vrai nombre
 
 ## Syntax
 
+**Syntax**<br>
 [Nombre](types/Nombre.md) = **abs** n
 
-**Paramètres**
+**Paramètres**<br>
 n: [Nombre](types/Nombre.md)
 
-**Valeur retournée**
+**Valeur retournée**<br>
 [Nombre](types/Nombre.md)
 
 ## Exemples
